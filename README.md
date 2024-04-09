@@ -1,1 +1,3 @@
-# Estudando sbore python e também sobre Data Science
+# Estudando sbore python e também sobre:
+- MachineLearning
+- DataScience
